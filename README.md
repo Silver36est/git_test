@@ -1,1 +1,1 @@
-This is Silver's one of many git learning projects.
+This is Silver's one more of many git learning projects.
